@@ -1,7 +1,7 @@
 # cdbbak_to_cos
 <img src="https://travis-ci.org/guohongze/adminset.svg?branch=master"></img> 
 <img src="https://img.shields.io/pypi/pyversions/requests.svg?branch=master"></img> 
-<img src="https://img.shields.io/hexpm/l/plug.svg"></img>
+<img src="https://img.shields.io/hexpm/l/plug.svg?branch=master"></img>
 [![release](https://img.shields.io/github/release/guohongze/adminset.svg)](https://github.com/redhatxl/cdbbak_to_cos)
 <br>
 可以将腾讯云cdb的备份文件上传至腾讯云cos内<br>
