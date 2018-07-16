@@ -13,7 +13,7 @@
 centos 7.2(1511) python 3.6<br>
 
 ## 博客
-Python实现腾讯云CDB备份文件自动上传到COS,<a href="http://blog.51cto.com/kaliarch/2144052">http://blog.51cto.com/kaliarch/2144052</a><br>
+Python实现腾讯云CDB备份文件自动上传到COS,<a href="http://blog.51cto.com/kaliarch/2144052">Python实现腾讯云CDB备份文件自动上传到COS</a><br>
 
 ## 参考链接
 COS SDK，<a href="https://cloud.tencent.com/document/product/436/12269">COS SDK for Python</a><br>
