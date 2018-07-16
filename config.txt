@@ -35,6 +35,6 @@ cdb_bak_type = coldbackup
 # 日志文件信息配置段
 [loginfo]
 #日志文件目录名称
-logdir_name = rds_to_cos
+logdir_name = cdb_to_cos
 #日志文件名称
-logfile_name = rdsbak_to_cos.log
+logfile_name = cdbbak_to_cos.log
